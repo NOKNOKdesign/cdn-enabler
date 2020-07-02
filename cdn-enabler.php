@@ -1,12 +1,13 @@
 <?php
 /*
-   Plugin Name: CDN Enabler
+   Plugin Name: CDN Enabler (NOKNOK Fork)
    Text Domain: cdn-enabler
    Description: Simply integrate a Content Delivery Network (CDN) into your WordPress site.
    Author: KeyCDN
    Author URI: https://www.keycdn.com
    License: GPLv2 or later
-   Version: 1.0.9
+   Version: 1.1.0
+   GitHub Plugin URI: https://github.com/NOKNOKdesign/cdn-enabler
  */
 
 /*
